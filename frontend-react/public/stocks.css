@@ -1,0 +1,110 @@
+/*STOCKS SECTION*/
+.stocks-search-section{
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+   padding-left: 2rem;
+   padding-right: 2rem;
+ }
+ .stocks-searchbar{
+   font-size: 1rem;
+ }
+ 
+ .stocks-info-section{
+   height: 12rem;
+   position: relative;
+   background-color: #98999b;
+ }
+ 
+ .stocks-info-card{
+   position: relative;
+   margin-left: 1%;
+   margin-right: 1%;
+   height: 84%;
+   padding: 0;
+ 
+ }
+ .stock-info-buttons{
+   padding: 0;
+   margin: 0;
+ 
+ }
+ .stocks-info-button-div{
+   height: 50%;
+   width: 100%;
+ }
+ .stocks-info-button{
+   position: relative;
+   margin: auto;
+   height: 35%;
+   width: 80%;
+   padding: 0;
+ }
+ 
+ 
+ 
+ .stocks-buy-section{
+   height: 12rem;
+   background-color: #fffff2;
+   position: relative;
+ }
+ .stocks-header{
+   font-size: calc(2rem + 1vw);
+   font-weight: bold;
+ }
+ .stocks-buy-card{
+   position: relative;
+   margin-left: 2rem;
+   margin-right: 2rem;
+   height: 84%;
+   padding: 0;
+   border: 3px solid gray;
+ }
+ .stocks-buy-input{
+   text-align: right;
+   font-size: 1rem;
+ }
+ 
+ 
+ 
+ 
+ .stocks-buy-button{
+   position: relative;
+   margin: auto;
+   height: 70%;
+   width: 80%;
+   padding: 0;
+   font-size: 1rem;
+ }
+
+
+
+
+
+ .parchment{
+  background-color: #fffff2;
+  width: calc(500px + 4vw);
+  padding: 2% 0;
+  margin: 2rem auto;
+  border: 5px solid gray;
+  border-radius: 4rem;
+  text-align: left;
+}
+.trade-button{
+  width: 30%;
+  margin: 0 35%;
+  padding: 0;
+}
+.arrow-image{
+  width: 10%;
+  height: 10%;
+  padding: 0;
+  margin: 0 45%;
+}
+.new-stock-input{
+  margin: 0 30% 2%;
+  width: 40%;
+  border-radius: 4px;
+  font-size: 2rem;
+  text-align: center;
+  background-color: #ffffff;
+}

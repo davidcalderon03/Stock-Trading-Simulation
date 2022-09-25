@@ -1,0 +1,139 @@
+/*YOUR STOCK SECTION*/
+.activity-header{
+  width: 100%;
+  border-radius: 1.2rem;
+  background-color: #2b2d30;
+  color: #f2f2f2;
+  padding: 0 2rem;
+  display: flex;
+  flex-direction: row;
+}
+.activity-header-div{
+  flex: 1 1 33%;
+  margin: auto 0;
+}
+.profile-activity-top-title{
+  font-size: calc(2rem + 2vw);
+}
+.profile-activity-top-text{
+  white-space: nowrap;
+  text-align: left;
+  font-size: calc(1rem + 1vw);
+}
+/*RECOMMEND SECTION*/
+.recommend-section-1{
+  padding: 2%;
+  border-radius: 3rem;;
+  margin: 3% 0%;
+  background-color: #b5121b;
+}
+.profile-recommend-card-1{
+  margin: 5% 0 5%;
+  background-color: #002e4d !important;
+  white-space: nowrap;
+}
+.profile-recommend-button-1{
+  background-color: #009e99 !important;
+  font-size: 1.5vw;
+}
+
+.recommend-section-2{
+  padding: 2%;
+  border-radius: 3rem;;
+  margin: 3% 0%;
+  background-color: #00539b !important;
+}
+.profile-recommend-card-2{
+  margin: 5% 0 5%;
+  background-color: #002e4d !important;
+  white-space: nowrap;
+}
+.profile-recommend-button-2{
+  color: #1c1c1c;
+  background-color: #a4ddf2 !important;
+  border-color: #a4ddf2 !important;
+  font-size: 1.5vw;
+}
+
+.recommend-section-3{
+  padding: 2%;
+  border-radius: 3rem;;
+  margin: 3% 0%;
+  background-color: #7a9c00 !important;
+}
+.profile-recommend-card-3{
+  margin: 5% 0 5%;
+  background-color: #002e4d !important;
+  white-space: nowrap;
+}
+.profile-recommend-button-3{
+  color: #ffffff !important;
+  background-color: #1d83de !important;
+  border-color: #1d83de !important;
+  font-size: 1.5vw;
+}
+
+.recommend-title{
+  padding: 0 5%;
+  text-align: center;
+}
+.card-title-other{
+  font-size: 2.5em;
+}
+.card-text-other{
+  font-size: 1.2rem;
+}
+
+
+ /*INDIVIDUAL STOCK SECTION*/
+.your-stocks-header{
+  margin-top: 5rem;
+  background-color: #2b2d30;
+  color: #f4f4f4;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+.your-stocks-header h1{
+  font-size: 4.5rem;
+}
+ .profile-stocks{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+ .profile-stock{
+  flex: 1 0 20%;
+  margin: 3% 2%;
+  width: 10rem;
+  color: white;
+  background-color: #b5121b !important;
+  font-family: Segoe UI;
+  border-radius: 1.2rem;
+  padding: 1rem;
+  white-space: nowrap;
+}
+.profile-stock-button{
+  margin: 2rem auto 0;
+  width: 6rem;
+  height: 3rem;
+  background-color: #f8f8f8;
+  text-align: center;
+  padding: 0.2rem;
+  border: 2px solid #333333;
+  border-radius: 3px;
+}
+.profile-stock-button:hover{
+  transition-duration: 0.2s;
+  transform: translateY(-3px);
+  box-shadow: 2px 2px 10px 4px #fafafa;
+}
+.profile-stock-link{
+  text-decoration: none;
+  color: #222222;
+  font-size: 1.4rem !important;
+  transition-duration: 0.2s;
+  font-weight: bold;
+}
+.profile-stock-link:hover{
+  color: #222222;
+}
